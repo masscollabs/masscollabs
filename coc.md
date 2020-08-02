@@ -26,7 +26,7 @@
 
 ### Core Team
 
-* As we understand from software, it should be done in a short time and it should be done well and simple, maybe in 5 minutes or 30 minutes. Core Team is responsible from maintaining all information database in the domain and subdomains (hwpplayers and procyberian). So Core Team can delete any harmful information such as malware code/binary or any kind of includes a hate speech, racism and sexism and all Free Software and Open Source code of conduct standards written before us. It is very important for us and we are curious to learn from other organizations.
+* As we understand from software, it should be done in a short time and it should be done well and simple, maybe in 5 minutes or 30 minutes. Core Team is responsible from maintaining all information database in the domain and subdomains (hwpplayers and procyberian). So Core Team can delete any harmful information such as malware code/binary or any kind of information that includes a hate speech, racism and sexism. It is very important for us to learn from other organizations. So we are curious to learn other Free Software and Open Source code of conduct standards written before us.
 
 ### Committers
 
