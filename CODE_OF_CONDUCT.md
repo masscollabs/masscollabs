@@ -1,15 +1,18 @@
-        Copyright (C)  2017-2023  Masscollabs Services, hwpplayers, procyberian(procyberian-linux), amassivus
-		Permission is granted to copy, distribute and/or modify this document
-        under the terms of the GNU Free Documentation License, Version 1.3
-        or any later version published by the Free Software Foundation;
-        with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
-        A copy of the license is included in the section entitled "GNU
-        Free Documentation License".
+# License for documentation
+
+Copyright (C)  2017-2023  Masscollabs Services
+
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+A copy of the license is included in the section entitled "GNU
+Free Documentation License".
 
 # Masscollabs Services Code of Conduct
 
 * This code of conduct file is licensed under the terms of GFDLv1.3 or any later. 
-* This Code of Conduct applies to Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [hwpplayers](https://github.com/hwpplayers/) hackerspace and [procyberian hackathon or in other words procyberian Linux](https://github.com/procyberian-linux), and [amassivus](https://www.github.com/amassivus) organizations.
+* This Code of Conduct applies to Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) and [amassivus](https://www.github.com/amassivus) organizations.
 
 ## Why we are writing a Code of Conduct and why it is so important
 
@@ -76,6 +79,5 @@
 * privacy is good
 * we demand to do good and useful things for the *public* and do **not** want to rely on any technology so we are authors and we can make something better replacing existing information and technology.
 
-If you have any questions please create an issue on this repository or join the [Masscollabs Freenode channel](https://webchat.freenode.net/?channels=#masscollabs), [hwpplayers Freenode channel](https://webchat.freenode.net/?channels=#hwpplayers), [procyberian Freenode channel](https://webchat.freenode.net/?channels=#procyberian), and [amassivus Freenode channel](https://webchat.freenode.net/?channels=#amassivus) to ask your question.
 
 

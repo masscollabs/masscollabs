@@ -1,10 +1,11 @@
-    Copyright (C)  2017-2023  Masscollabs Services, hwpplayers, procyberian(procyberian-linux), amassivus
-	Permission is granted to copy, distribute and/or modify this document
-    under the terms of the GNU Free Documentation License, Version 1.3
-    or any later version published by the Free Software Foundation;
-    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
-    A copy of the license is included in the section entitled "GNU
-    Free Documentation License".
+Copyright (C)  2017-2023  Masscollabs Services
+
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+A copy of the license is included in the section entitled "GNU
+Free Documentation License".
 
 
 # Contributing
@@ -12,15 +13,15 @@
 ## Scope 
 
 * [Masscollabs Services](https://github.com/masscollabs)
-* [hwpplayers](https://github.com/hwpplayers)
-* [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux) 
+* [Mass Collaboration Labs](https://github.com/masscollaborationlabs)
+* [procyberian](https://github.com/procyberian) 
 * [amassivus](https://www.github.com/amassivus)
 
 ## What we expect from contributors
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [hwpplayers](https://github.com/hwpplayers), and [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux), and [amassivus](https://www.github.com/amassivus) organizations
+* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), and [amassivus](https://www.github.com/amassivus) organizations
 
 ### Code
 
