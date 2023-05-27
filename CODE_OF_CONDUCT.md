@@ -63,7 +63,7 @@ Free Documentation License".
 * **master-x/main-x branches**: We plan to make monthly updates for new features and security fixes in one month, three months and six months. This is the main branch for communites, end users, companies and other organizations such as foundations, associations and state organizations.
 * **stable-x branches**: We plan to make yearly updates for new features in one year, three years and five years. This is the Long Term Support branch. Stable and more focused on software and hardware security.
 * **oldstable-x branches**: We plan not to limit ourselves to serve in a five year time period so on this branch the support lifetime is ten years.
-* **legacy-x branches**: On this branch we have the information database which is archived and the information that is not supported by us directly. If you want us to take care of the information database please feel free to send us an e-mail to these addresses at the same time, because it is the core of the organization, core at masscollabs dot com, security at masscollabs dot com and support at masscollabs dot com.
+* **legacy-x branches**: On this branch we have the information database which is archived and the information that is not supported by us directly.
 
 ## Conclusion
 	
