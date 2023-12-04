@@ -1,6 +1,6 @@
 # License for documentation
 
-Copyright (C)  2017-2023  Masscollabs Services
+Copyright (C)  2017-2024  Masscollabs Services
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
@@ -78,6 +78,3 @@ Free Documentation License".
 * collaboration is good
 * privacy is good
 * we demand to do good and useful things for the *public* and do **not** want to rely on any technology so we are authors and we can make something better replacing existing information and technology.
-
-
-
