@@ -1,4 +1,4 @@
-Copyright (C)  2017-2024  QB Networks
+Copyright (C)  2024  QB Networks
 
 Copyright (C)  2017-2024  Masscollabs Services
 
