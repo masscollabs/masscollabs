@@ -12,6 +12,8 @@ Copyright (C)  2017-2024  Mass Collaboration Labs and contributors
 
 Copyright (C) 2024 godigitalist and contributors
 
+Copyright (C) 2024 bilsege and contributors
+
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
 or any later version published by the Free Software Foundation;
@@ -22,7 +24,7 @@ Free Documentation License".
 # Masscollabs Services Code of Conduct Scope
 
 * This code of conduct file is licensed under the terms of GFDLv1.3 or any later. 
-* This Code of Conduct applies to [QB Networks](https://github.com/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) , [amassivus](https://www.github.com/amassivus) and [godigitalist](https://github.com/godigitalist) organizations.
+* This Code of Conduct applies to [QB Networks](https://github.com/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs) , [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) and [bilsege](https://github.com/bilsege) organizations.
 
 ## Why we are writing a Code of Conduct and why it is so important
 

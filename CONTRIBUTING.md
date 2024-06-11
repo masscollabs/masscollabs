@@ -8,6 +8,10 @@ Copyright (C)  2017-2024  amassivus and contributors
 
 Copyright (C)  2017-2024  Mass Collaboration Labs and contributors
 
+Copyright (C) 2024 godigitalist and contributors
+
+Copyright (C) 2024 bilsege and contributors
+
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
 or any later version published by the Free Software Foundation;
@@ -20,16 +24,19 @@ Free Documentation License".
 
 ## Scope 
 
+* [QB Networks](https://github.com/qbnetworks)
 * [Masscollabs Services](https://github.com/masscollabs)
 * [Mass Collaboration Labs](https://github.com/masscollaborationlabs)
 * [procyberian](https://github.com/procyberian) 
 * [amassivus](https://www.github.com/amassivus)
+* [godigitalist](https://github.com/godigitalist)
+* [bilsege](https://github.com/bilsege)
 
 ## What we expect from contributors
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), and [amassivus](https://www.github.com/amassivus) organizations
+* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://github.com/qbnetworks) , [Masscollabs Services](https://github.com/masscollabs), [procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) and [bilsege](https://github.com/bilsege) organizations
 
 ### Code
 
