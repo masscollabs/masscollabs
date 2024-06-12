@@ -2,11 +2,11 @@ Copyright (C)  2024  QB Networks
 
 Copyright (C)  2017-2024  Masscollabs Services
 
-Copyright (C)  2017-2024  procyberian and contributors
-
-Copyright (C)  2017-2024  amassivus and contributors
+Copyright (C)  2017-2024  Procyberian and contributors
 
 Copyright (C)  2017-2024  Mass Collaboration Labs and contributors
+
+Copyright (C)  2017-2024  amassivus and contributors
 
 Copyright (C) 2024 godigitalist and contributors
 
@@ -26,8 +26,8 @@ Free Documentation License".
 
 * [QB Networks](https://github.com/qbnetworks)
 * [Masscollabs Services](https://github.com/masscollabs)
+* [Procyberian](https://github.com/procyberian) 
 * [Mass Collaboration Labs](https://github.com/masscollaborationlabs)
-* [procyberian](https://github.com/procyberian) 
 * [amassivus](https://www.github.com/amassivus)
 * [godigitalist](https://github.com/godigitalist)
 * [bilsege](https://github.com/bilsege)
@@ -36,7 +36,7 @@ Free Documentation License".
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://github.com/qbnetworks) , [Masscollabs Services](https://github.com/masscollabs), [procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) and [bilsege](https://github.com/bilsege) organizations
+* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://github.com/qbnetworks) , [Masscollabs Services](https://github.com/masscollabs), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) and [bilsege](https://github.com/bilsege) organizations
 
 ### Code
 
