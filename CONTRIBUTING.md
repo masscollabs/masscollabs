@@ -1,16 +1,16 @@
-Copyright (C)  2024  QB Networks
+Copyright (C)  2024-2025  QB Networks
 
-Copyright (C)  2017-2024  Masscollabs Services
+Copyright (C)  2017-2025  Masscollabs Services
 
-Copyright (C)  2017-2024  Procyberian and contributors
+Copyright (C)  2017-2025  Procyberian and contributors
 
-Copyright (C)  2017-2024  Mass Collaboration Labs and contributors
+Copyright (C)  2017-2025  Mass Collaboration Labs and contributors
 
-Copyright (C)  2017-2024  amassivus and contributors
+Copyright (C)  2017-2025  amassivus and contributors
 
-Copyright (C) 2024 godigitalist and contributors
+Copyright (C) 2024-2025 godigitalist and contributors
 
-Copyright (C) 2024 bilsege and contributors
+Copyright (C) 2024-2025 bilsege and contributors
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
