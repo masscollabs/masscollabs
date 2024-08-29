@@ -14,6 +14,8 @@ Copyright (C) 2024-2025 godigitalist and contributors
 
 Copyright (C) 2024-2025 bilsege and contributors
 
+Copyright (C) 2024-2025  Birleşik Dergi Yazarları
+
 Copyright(C) 2020 sulincix
 
 Permission is granted to copy, distribute and/or modify this document

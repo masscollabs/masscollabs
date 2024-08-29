@@ -31,12 +31,13 @@ Free Documentation License".
 * [amassivus](https://www.github.com/amassivus)
 * [godigitalist](https://github.com/godigitalist)
 * [bilsege](https://github.com/bilsege)
+* [Birleşik Dergi](https://github.com/birlesikxyz)
 
 ## What we expect from contributors
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://github.com/qbnetworks) , [Masscollabs Services](https://github.com/masscollabs), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) and [bilsege](https://github.com/bilsege) organizations
+* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://github.com/qbnetworks) , [Masscollabs Services](https://github.com/masscollabs), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) , [bilsege](https://github.com/bilsege) and [Birleşik Dergi](https://github.com/birlesikxyz) organizations.
 
 ### Code
 
