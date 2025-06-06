@@ -16,9 +16,9 @@ Copyright (C) 2024-2025 bilsege and contributors
 
 Copyright (C) 2024-2025  Birleşik Dergi Yazarları
 
-Copyright (C) 2024-2025  exsay and contributors
+Copyright (C) 2025  exsay and contributors
 
-Copyright (C) 2024-2025  Açık Ağ ve Katkıcıları
+Copyright (C) 2025  Açık Ağ ve Katkıcıları
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
