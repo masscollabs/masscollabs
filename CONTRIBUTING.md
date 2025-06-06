@@ -1,3 +1,5 @@
+# Documentation License
+
 Copyright (C)  2024-2025  QB Networks
 
 Copyright (C)  2017-2025  Masscollabs Services
@@ -11,6 +13,12 @@ Copyright (C)  2017-2025  amassivus and contributors
 Copyright (C) 2024-2025 godigitalist and contributors
 
 Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025  Birleşik Dergi Yazarları
+
+Copyright (C) 2024-2025  exsay and contributors
+
+Copyright (C) 2024-2025  Açık Ağ ve Katkıcıları
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
@@ -32,12 +40,14 @@ Free Documentation License".
 * [godigitalist](https://github.com/godigitalist)
 * [bilsege](https://github.com/bilsege)
 * [Birleşik Dergi](https://github.com/birlesikxyz)
+* [exsay social media](https://github.com/exsayxyz) 
+* [Açık Ağ Platformu](https://github.com/acikag)
 
 ## What we expect from contributors
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://github.com/qbnetworks) , [Masscollabs Services](https://github.com/masscollabs), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) , [bilsege](https://github.com/bilsege) and [Birleşik Dergi](https://github.com/birlesikxyz) organizations.
+* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://github.com/qbnetworks) , [Masscollabs Services](https://github.com/masscollabs), [Procyberian](https://github.com/procyberian), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus) , [godigitalist](https://github.com/godigitalist) , [bilsege](https://github.com/bilsege) , [Birleşik Dergi](https://github.com/birlesikxyz) , [exsay social media](https://github.com/exsayxyz) , and [Açık Ağ Platformu](https://github.com/acikag) organizations.
 
 ### Code
 
