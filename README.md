@@ -1,4 +1,4 @@
-# Masscollabs Services Code of Conduct's README
+# Our Organizations' Code of Conduct's README
 
 ### The four essential freedoms, for the original article please read [What is free software?](https://www.gnu.org/philosophy/free-sw.en.html)
 
