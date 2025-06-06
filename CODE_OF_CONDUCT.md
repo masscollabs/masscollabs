@@ -15,7 +15,7 @@
 
 ## Core Values for Our Organizations' Work Processes
 
-* Decentralized collaboration is the key strategy and value for our organizations. Thus developers contribute independently from around the world.
+* Decentralized collaboration is the key strategy and value for our organizations. Thus developers contribute independently from all around the world.
 * Transparency and accessibility are at the forefront. The information database and the software source code is open to everyone's control and the information is free as in freedom without no restrictions.
 * Freedom and ethical values ​​are paramount and indispensable principles of our organizations. The software is distributed under free licenses such as the GNU General Public License (GPL).
 * Community support is essential. Users and developers support the project with bug reports, documentation, and code contributions. Working independently of any institution and maintaining organizational independence and working freely are the main principles.
