@@ -1,7 +1,7 @@
 # Our Code of Conduct and it's Scope
 
 * This code of conduct file is licensed under the terms of GFDLv1.3 or any later. 
-* This Code of Conduct applies to [QB Networks](https://source.masscollabs.xyz/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://source.masscollabs.xyz/masscollabs), Procyberian Systems Distribution in other words [PSD](https://source.masscollabs.xyz/procyberian), [Mass Collaboration Labs](https://source.masscollabs.xyz/masscollaborationlabs) , [amassivus](https://source.masscollabs.xyz/amassivus) , [godigitalist](https://source.masscollabs.xyz/godigitalist) , [bilsege](https://source.masscollabs.xyz/bilsege) , [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz) , [exsay social media](https://source.masscollabs.xyz/exsayxyz) , [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag) [Kernel R&D](https://source.masscollabs.xyz/cekirdekxyz)organizations.
+* This Code of Conduct applies to [QB Networks](https://source.masscollabs.xyz/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://source.masscollabs.xyz/masscollabs), Procyberian Systems Distribution in other words [PSD](https://source.masscollabs.xyz/procyberian), [Mass Collaboration Labs](https://source.masscollabs.xyz/masscollaborationlabs) , [amassivus](https://source.masscollabs.xyz/amassivus) , [godigitalist](https://source.masscollabs.xyz/godigitalist) , [bilsege](https://source.masscollabs.xyz/bilsege) , [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz) , [exsay social media](https://source.masscollabs.xyz/exsayxyz) , [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag) and [Kernel R&D](https://source.masscollabs.xyz/cekirdekxyz) organizations.
 
 ## Our New Organization Model
 
