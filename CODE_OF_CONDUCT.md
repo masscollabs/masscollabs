@@ -1,7 +1,7 @@
 # Our Code of Conduct and it's Scope
 
 * This code of conduct file is licensed under the terms of GFDLv1.3 or any later. 
-* This Code of Conduct applies to [QB Networks](https://source.masscollabs.xyz/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://source.masscollabs.xyz/masscollabs), Procyberian Systems Distribution in other words [PSD](https://source.masscollabs.xyz/procyberian), [Mass Collaboration Labs](https://source.masscollabs.xyz/masscollaborationlabs) , [amassivus](https://source.masscollabs.xyz/amassivus) , [godigitalist](https://source.masscollabs.xyz/godigitalist) , [bilsege](https://source.masscollabs.xyz/bilsege) , [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz) , [exsay social media](https://source.masscollabs.xyz/exsayxyz) , and [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag) organizations.
+* This Code of Conduct applies to [QB Networks](https://source.masscollabs.xyz/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://source.masscollabs.xyz/masscollabs), Procyberian Systems Distribution in other words [PSD](https://source.masscollabs.xyz/procyberian), [Mass Collaboration Labs](https://source.masscollabs.xyz/masscollaborationlabs) , [amassivus](https://source.masscollabs.xyz/amassivus) , [godigitalist](https://source.masscollabs.xyz/godigitalist) , [bilsege](https://source.masscollabs.xyz/bilsege) , [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz) , [exsay social media](https://source.masscollabs.xyz/exsayxyz) , [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag) [Kernel R&D](https://source.masscollabs.xyz/cekirdekxyz)organizations.
 
 ## Our New Organization Model
 
@@ -44,25 +44,27 @@
 
 ## License for documentation
 
-Copyright (C)  2024-2025  QB Networks
+Copyright (C) 2024-2025 QB Networks
 
-Copyright (C)  2017-2025  Masscollabs Services
+Copyright (C) 2017-2025 Masscollabs Services
 
-Copyright (C)  2017-2025  Procyberian and contributors
+Copyright (C) 2017-2025 Procyberian and contributors
 
-Copyright (C)  2017-2025  Mass Collaboration Labs and contributors
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
 
-Copyright (C)  2017-2025  amassivus and contributors
+Copyright (C) 2017-2025 amassivus and contributors
 
 Copyright (C) 2024-2025 godigitalist and contributors
 
 Copyright (C) 2024-2025 bilsege and contributors
 
-Copyright (C) 2024-2025  Birleşik Dergi Yazarları
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
 
-Copyright (C) 2025  exsay and contributors
+Copyright (C) 2025 Exsay and contributors
 
-Copyright (C) 2025  Açık Ağ ve Katkıcıları
+Copyright (C) 2025 Açık Ağ ve katkıcıları
+
+Copyright (C) 2025 cekirdek.xyz ve katkıcıları
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
