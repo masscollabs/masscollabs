@@ -11,13 +11,15 @@
 * [bilsege](https://source.masscollabs.xyz/bilsege)
 * [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz)
 * [exsay social media](https://source.masscollabs.xyz/exsayxyz)
-* [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag) organizations
+* [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag) 
+* [Kernel R&D](https://source.masscollabs.xyz/cekirdekxyz)
+* [The Go Network Community](https://source.masscollabs.xyz/the-go-network) organizations
 
 ## What we expect from contributors
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://source.masscollabs.xyz/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://source.masscollabs.xyz/masscollabs), Procyberian Systems Distribution in other words [PSD](https://source.masscollabs.xyz/procyberian), [Mass Collaboration Labs](https://source.masscollabs.xyz/masscollaborationlabs) , [amassivus](https://source.masscollabs.xyz/amassivus) , [godigitalist](https://source.masscollabs.xyz/godigitalist) , [bilsege](https://source.masscollabs.xyz/bilsege) , [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz) , [exsay social media](https://source.masscollabs.xyz/exsayxyz) , and [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag) organizations.
+* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://source.masscollabs.xyz/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://source.masscollabs.xyz/masscollabs), Procyberian Systems Distribution in other words [PSD](https://source.masscollabs.xyz/procyberian), [Mass Collaboration Labs](https://source.masscollabs.xyz/masscollaborationlabs) , [amassivus](https://source.masscollabs.xyz/amassivus) , [godigitalist](https://source.masscollabs.xyz/godigitalist) , [bilsege](https://source.masscollabs.xyz/bilsege) , [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz) , [exsay social media](https://source.masscollabs.xyz/exsayxyz) , [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag), [Kernel R&D](https://source.masscollabs.xyz/cekirdekxyz), and [The Go Network Community](https://source.masscollabs.xyz/the-go-network) organizations.
 
 ### Code
 
@@ -25,25 +27,29 @@
 
 ## Documentation License
 
-Copyright (C)  2024-2025  QB Networks
+Copyright (C) 2024-2025 QB Networks
 
-Copyright (C)  2017-2025  Masscollabs Services
+Copyright (C) 2017-2025 Masscollabs Services
 
-Copyright (C)  2017-2025  Procyberian and contributors
+Copyright (C) 2017-2025 Procyberian and contributors
 
-Copyright (C)  2017-2025  Mass Collaboration Labs and contributors
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
 
-Copyright (C)  2017-2025  amassivus and contributors
+Copyright (C) 2017-2025 amassivus and contributors
 
 Copyright (C) 2024-2025 godigitalist and contributors
 
 Copyright (C) 2024-2025 bilsege and contributors
 
-Copyright (C) 2024-2025  Birleşik Dergi Yazarları
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
 
-Copyright (C) 2025  exsay and contributors
+Copyright (C) 2025 Exsay and contributors
 
-Copyright (C) 2025  Açık Ağ ve Katkıcıları
+Copyright (C) 2025 Açık Ağ ve katkıcıları
+
+Copyright (C) 2025 cekirdek.xyz ve katkıcıları
+
+Copyright (C) 2025 The Go Network Community
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3

@@ -11,25 +11,29 @@ A program is free software if the program’s users have the four essential free
 
 # License for documentation
 
-Copyright (C)  2024-2025  QB Networks
+Copyright (C) 2024-2025 QB Networks
 
-Copyright (C)  2017-2025  Masscollabs Services
+Copyright (C) 2017-2025 Masscollabs Services
 
-Copyright (C)  2017-2025  Procyberian and contributors
+Copyright (C) 2017-2025 Procyberian and contributors
 
-Copyright (C)  2017-2025  Mass Collaboration Labs and contributors
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
 
-Copyright (C)  2017-2025  amassivus and contributors
+Copyright (C) 2017-2025 amassivus and contributors
 
 Copyright (C) 2024-2025 godigitalist and contributors
 
 Copyright (C) 2024-2025 bilsege and contributors
 
-Copyright (C) 2024-2025  Birleşik Dergi Yazarları
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
 
-Copyright (C) 2025  exsay and contributors
+Copyright (C) 2025 Exsay and contributors
 
-Copyright (C) 2025  Açık Ağ ve Katkıcıları
+Copyright (C) 2025 Açık Ağ ve katkıcıları
+
+Copyright (C) 2025 cekirdek.xyz ve katkıcıları
+
+Copyright (C) 2025 The Go Network Community
 
 Copyright(C) 2020 sulincix
 
