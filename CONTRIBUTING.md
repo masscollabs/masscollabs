@@ -5,21 +5,12 @@
 * [QB Networks](https://source.masscollabs.xyz/qbnetworks)
 * [Masscollabs Services](https://source.masscollabs.xyz/masscollabs)
 * [PSD](https://source.masscollabs.xyz/procyberian)
-* [Mass Collaboration Labs](https://source.masscollabs.xyz/masscollaborationlabs)
-* [amassivus](https://source.masscollabs.xyz/amassivus)
-* [godigitalist](https://source.masscollabs.xyz/godigitalist)
-* [bilsege](https://source.masscollabs.xyz/bilsege)
-* [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz)
-* [exsay social media](https://source.masscollabs.xyz/exsayxyz)
-* [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag) 
-* [Kernel R&D](https://source.masscollabs.xyz/cekirdekxyz)
-* [The Go Network Community](https://source.masscollabs.xyz/the-go-network) organizations
 
 ## What we expect from contributors
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://source.masscollabs.xyz/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://source.masscollabs.xyz/masscollabs), Procyberian Systems Distribution in other words [PSD](https://source.masscollabs.xyz/procyberian), [Mass Collaboration Labs](https://source.masscollabs.xyz/masscollaborationlabs) , [amassivus](https://source.masscollabs.xyz/amassivus) , [godigitalist](https://source.masscollabs.xyz/godigitalist) , [bilsege](https://source.masscollabs.xyz/bilsege) , [Birleşik Dergi](https://source.masscollabs.xyz/birlesikxyz) , [exsay social media](https://source.masscollabs.xyz/exsayxyz) , [Açık Ağ Platformu](https://source.masscollabs.xyz/acikag), [Kernel R&D](https://source.masscollabs.xyz/cekirdekxyz), and [The Go Network Community](https://source.masscollabs.xyz/the-go-network) organizations.
+* Please follow Awesome format for your own documentation that you will suggest to [QB Networks](https://source.masscollabs.xyz/qbnetworks), Masscollabs Services or in other words [Masscollabs](https://source.masscollabs.xyz/masscollabs), Procyberian Systems Distribution in other words and [PSD](https://source.masscollabs.xyz/procyberian) organizations.
 
 ### Code
 
