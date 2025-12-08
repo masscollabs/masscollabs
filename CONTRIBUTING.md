@@ -1,5 +1,23 @@
 # Contributing
 
+We have a mixed style of organization derivated from BSDs, GNU, Linux and all other hacker cultures. We want a person should control all source code from a single directory. 
+
+Which is why we have a project leader who is elected by community members and controlled directly and if something goes wrong community members can call back the existing leader to vote and elect the new leader.
+
+The Project Leader must be a technical person especially a systems programmer and a security expert.
+
+Then the whole community will select Core Team in other words Core Team Leaders with help of Project Leader.
+
+Core Team is a place for the most active people who contributes to the community. And if there is no contribution in a year they will be outside of the Core Team and Community memebrs will elect new Core Team members.
+
+Example of a Core Team leader is IoT Enterprise Team Leader to lead committers and contributors who will write code and documentation for IoT field. And The Project Leader will teach as a leader and a technical person who knows security to Core Team Leaders and in this example IoT Enterprise Team Leader what should be done with help of community members. 
+
+To be an open organization all tasks will be public including e-mail lists, git commits and chats.
+
+All levels are designed to be an open and collaborative style such as beginning from community members who is new to community and then becoming contributors, committers, Core Team Leaders and The Project Leader.
+
+The key responsibility for The Project Leader is to keep the infrastructure secure and work 24/7/365. If he or she can not do that he or she will not be a candidate to be elected as a Project Leader.
+
 ## Scope 
 
 * [QB Networks](https://source.masscollabs.xyz/qbnetworks)
@@ -22,7 +40,7 @@ Copyright (C) 2024-2025 QB Networks
 
 Copyright (C) 2017-2025 Masscollabs Services
 
-Copyright (C) 2017-2025 Procyberian and contributors
+Copyright (C) 2017-2025 PSD Authors (Procyberian Systems Distribution)
 
 Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
 
