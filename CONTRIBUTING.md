@@ -8,7 +8,7 @@ The Project Leader must be a technical person especially a systems programmer an
 
 Then the whole community will select Core Team in other words Core Team Leaders with help of Project Leader.
 
-Core Team is a place for the most active people who contributes to the community. And if there is no contribution in a year they will be outside of the Core Team and Community memebrs will elect new Core Team members.
+Core Team is a place for the most active people who contributes to the community. And if there is no contribution in a year they will be outside of the Core Team and Community members will elect new Core Team members.
 
 Example of a Core Team leader is IoT Enterprise Team Leader to lead committers and contributors who will write code and documentation for IoT field. And The Project Leader will teach as a leader and a technical person who knows security to Core Team Leaders and in this example IoT Enterprise Team Leader what should be done with help of community members. 
 
